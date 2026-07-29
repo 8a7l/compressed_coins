@@ -1,0 +1,8 @@
+Tin Coin
+Copper Coin
+Bronze Coin
+Steel Coin
+Gold Coin
+Diamond Coin
+
+Not enough space in inventory.

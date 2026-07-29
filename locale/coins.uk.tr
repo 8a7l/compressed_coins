@@ -1,0 +1,10 @@
+# textdomain: compressed_coins
+
+Tin Coin=Олов'яна монета
+Copper Coin=Мідна монета
+Bronze Coin=Бронзова монета
+Steel Coin=Сталева монета
+Gold Coin=Золота монета
+Diamond Coin=Діамантова монета
+
+Not enough space in inventory.=Недостатньо місця в інвентарі.

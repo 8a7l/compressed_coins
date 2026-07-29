@@ -3,7 +3,7 @@
 A simple resource compression mod for Luanti / Minetest.
 
 Compressed Coins adds six craftable coins that provide a compact way to store valuable resources. Each higher-tier coin is crafted from resource blocks and the previous-tier coin, creating a simple progression system. Any coin can be converted back into the resources used to create it without requiring a crafting table.
-
+![Compressed Coins](screenshot.png)
 ## Features
 
 * Six craftable coins:
